@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1080421107026",
+    "firebase_url": "https://testdb-32644-default-rtdb.firebaseio.com",
+    "project_id": "testdb-32644",
+    "storage_bucket": "testdb-32644.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080421107026:android:24e29678cc19db57f7a68b",
+        "android_client_info": {
+          "package_name": "com.example.lab1_sqlite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfVHMpM4qDpjIKWsAFk9H2EK8URocHAAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1-SQLite</string>
+    <string name="tendangnhap">Tên đăng nhập</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="ngaysinh">Ngày sinh</string>
+    <string name="CMND">Chứng minh nhân dân</string>
+    <string name="thoat">Thoát</string>
+    <string name="dangky">Đăng ký</string>
+    <string name="dangnhap">Đăng nhập</string>
+</resources>
