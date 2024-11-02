@@ -25,6 +25,8 @@ public class LoginActivity extends AppCompatActivity {
     EditText editText_user, editText_pass;
     private DatabaseReference mDatabase;
     String test = "day la du lieu moi";
+    String test2 = "day la du lieu moi";
+
     public static class User {
 
         public String username;
